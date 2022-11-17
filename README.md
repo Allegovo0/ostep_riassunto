@@ -4,4 +4,4 @@ Riassunto del testo adottato dal corso di Sistemi Operativi del cdl in Sicurezza
 
 Progetto in aggiornamento.
 
-A cura di: Stefano Di Pasquale e Alessandro Govoni.
+A cura di Stefano Di Pasquale e Alessandro Govoni.
